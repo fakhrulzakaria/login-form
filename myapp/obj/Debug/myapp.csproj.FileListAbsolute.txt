@@ -1,0 +1,10 @@
+c:\users\fakhrul\documents\visual studio 2012\Projects\myapp\myapp\bin\Debug\myapp.exe.config
+C:\Users\Fakhrul\Documents\Visual Studio 2012\Projects\myapp\myapp\bin\Debug\myapp.exe
+C:\Users\Fakhrul\Documents\Visual Studio 2012\Projects\myapp\myapp\bin\Debug\myapp.pdb
+C:\Users\Fakhrul\Documents\Visual Studio 2012\Projects\myapp\myapp\obj\Debug\myapp.csprojResolveAssemblyReference.cache
+C:\Users\Fakhrul\Documents\Visual Studio 2012\Projects\myapp\myapp\obj\Debug\myapp.Form1.resources
+C:\Users\Fakhrul\Documents\Visual Studio 2012\Projects\myapp\myapp\obj\Debug\myapp.Properties.Resources.resources
+C:\Users\Fakhrul\Documents\Visual Studio 2012\Projects\myapp\myapp\obj\Debug\myapp.csproj.GenerateResource.Cache
+C:\Users\Fakhrul\Documents\Visual Studio 2012\Projects\myapp\myapp\obj\Debug\myapp.exe
+C:\Users\Fakhrul\Documents\Visual Studio 2012\Projects\myapp\myapp\obj\Debug\myapp.pdb
+C:\Users\Fakhrul\Documents\Visual Studio 2012\Projects\myapp\myapp\obj\Debug\myapp.Form2.resources
